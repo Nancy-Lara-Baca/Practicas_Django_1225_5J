@@ -14,3 +14,6 @@ Aqui se realizaran las practicas de Djngo que es un Framework Marco de trabajo U
 - 12 Ejecutar el servidor --> python manage.py runserver
 - 13 Realizar migracion --> python manage.py migrate
 - 14 Vuelve a ejecutar servidor 
+
+## Tablas
+- ![image](https://github.com/user-attachments/assets/58f92cb6-5f73-4567-b448-0e28e3146fab)
